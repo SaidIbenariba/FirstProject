@@ -1,3 +1,10 @@
 h2 {
   color:green ; 
 } 
+body {
+  background-color:brown ;
+}
+:root { 
+  --color-border:black ; 
+
+}
